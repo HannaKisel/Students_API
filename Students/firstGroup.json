@@ -1,0 +1,28 @@
+{
+  "BirthDate": 926370000000,
+  "Course": 3,
+  "Faculty": {
+    "Name": "Radiophysics and Computer Technologies",
+    "DisplayName": "RFaCT"
+  },
+  "CourseworkTeacher": {
+    "FirstName": "Isaac",
+    "SecondName": "Newton",
+    "MiddleName": "Robertovich"
+  },
+  "EntityType": 1,
+  "FirstName": "Albert",
+  "SecondName": "Einstein",
+  "MiddleName": "Germanovich",
+  "Gender": "Male",
+  "Group": { "name": "1+5 AI" },
+  "HasPrivileges": false,
+  "LastSessionMark": 8.5,
+  "ResidencePlace": "Kurchatova 8, 143B",
+  "ScholarshipSize": 120,
+  "Specialty": "Applied Informatics",
+  "Status": "Study",
+  "EducationForm": "Free",
+  "Title": "Albert Einstein",
+  "URLToAvatar": "ult_to_img..."
+}
