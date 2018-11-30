@@ -49,25 +49,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdminService.cs" />
-    <Compile Include="Discipline.cs" />
-    <Compile Include="ExelWorker.cs" />
-    <Compile Include="Faculty.cs" />
-    <Compile Include="Group.cs" />
-    <Compile Include="JSONWorker.cs" />
-    <Compile Include="Person.cs" />
+    <Compile Include="Essence\Discipline.cs" />
+    <Compile Include="Workers\ExelWorker.cs" />
+    <Compile Include="Essence\Faculty.cs" />
+    <Compile Include="Essence\Group.cs" />
+    <Compile Include="Workers\JSONWorker.cs" />
+    <Compile Include="Essence\Person.cs" />
     <Compile Include="EntryPoint.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Student.cs" />
-    <Compile Include="System.cs" />
-    <Compile Include="SystemService.cs" />
-    <Compile Include="Teacher.cs" />
-    <Compile Include="TeacherService.cs" />
+    <Compile Include="Essence\Student.cs" />
+    <Compile Include="Services\AdminService.cs" />
+    <Compile Include="Services\TeacherService.cs" />
+    <Compile Include="Essence\System.cs" />
+    <Compile Include="Essence\Teacher.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="firstGroup.json" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

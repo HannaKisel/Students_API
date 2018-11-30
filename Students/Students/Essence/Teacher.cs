@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Students
+namespace Students.Essence
 {
   class Teacher : Person
   {

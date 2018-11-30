@@ -1,12 +1,13 @@
 ﻿using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.IO;
+using Students.Essence;
 
-namespace Students
+namespace Students.Workers
 {
   class JSONWorker
   {
-    private const string pathToJsonFileWithStudents = @"D:\Учёба\3 курс\c#\Students\Students\firstGroup.json";// change!
+    private const string pathToJsonFileWithStudents = @"D:\Учёба\3 курс\c#\Students_API\Students\Students\firstGroup.json";// change!
     
     /// <summary>
     /// Writes to the collection from JSON file

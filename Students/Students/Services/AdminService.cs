@@ -1,4 +1,4 @@
-﻿namespace Students
+﻿namespace Students.Services
 {
   class AdminService
   {

@@ -1,4 +1,4 @@
-﻿namespace Students
+﻿namespace Students.Essence
 {
   abstract class Person
   {

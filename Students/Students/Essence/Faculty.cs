@@ -1,4 +1,4 @@
-﻿namespace Students
+﻿namespace Students.Essence
 {
   /// <summary>
   /// this class is the essence of the faculty
