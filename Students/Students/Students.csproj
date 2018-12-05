@@ -49,19 +49,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Essence\Discipline.cs" />
+    <Compile Include="Entities\Discipline.cs" />
     <Compile Include="Workers\ExelWorker.cs" />
-    <Compile Include="Essence\Faculty.cs" />
-    <Compile Include="Essence\Group.cs" />
+    <Compile Include="Entities\Faculty.cs" />
+    <Compile Include="Entities\Group.cs" />
     <Compile Include="Workers\JSONWorker.cs" />
-    <Compile Include="Essence\Person.cs" />
+    <Compile Include="Entities\Person.cs" />
     <Compile Include="EntryPoint.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Essence\Student.cs" />
+    <Compile Include="Entities\Student.cs" />
     <Compile Include="Services\AdminService.cs" />
     <Compile Include="Services\TeacherService.cs" />
-    <Compile Include="Essence\System.cs" />
-    <Compile Include="Essence\Teacher.cs" />
+    <Compile Include="Entities\System.cs" />
+    <Compile Include="Entities\Teacher.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

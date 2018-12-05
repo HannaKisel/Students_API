@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.IO;
-using Students.Essence;
+using Students.Entities;
 
 namespace Students.Workers
 {
