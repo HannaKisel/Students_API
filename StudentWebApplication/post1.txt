@@ -1,0 +1,22 @@
+{
+	"FirstName": "Euheny",
+	"SecondName": "Kisel",
+	"MiddleName": "Viacheslavovich",
+	"Gender": "M",
+	"Birthdate": "060298",
+	"HasPrivileges": true,
+	"Status": "Free",
+	"ResidencePlace": "Minsk",
+	"Faculty":"Rudiofisics and Computer since",
+	"Specialty":"AI",
+	"Cource":"3",
+	"EducationForm": "Payed",
+	"Group":"1+5AI",
+	"LastSessionMark":9.0,
+	"ScholarshipSize":100,
+	"CourseworkTeacher":"Sacha Rybak Oprr",
+	"EntityType":1,
+	"Title":"E.V.Kisel",
+	"URLToAvatar":"SomeUrl",
+	"Id":4
+}
